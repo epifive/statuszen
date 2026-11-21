@@ -1,5 +1,14 @@
 # Statuszen
 
+<!-- epifive:header -->
+> Know the moment a website, API or cron job fails, alert your team and keep customers informed with a status page, all on your own server.
+
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-0a7560?style=flat-square)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/epifive/statuszen?style=flat-square&label=release&color=4f5bd5)](https://github.com/epifive/statuszen/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/epifive/statuszen?style=flat-square&color=b5791b)](https://github.com/epifive/statuszen/stargazers)
+
+**[Docs & guide on epifive.com](https://www.epifive.com/blog/statuszen-open-source-uptime-monitor-status-page?utm_source=github&utm_medium=readme&utm_campaign=statuszen)** · **[Live demo](https://statuszen.vercel.app)** · **[Download the latest release](https://github.com/epifive/statuszen/releases/latest)**
+
 **Open-source uptime monitoring, public status pages and cron job (heartbeat) monitoring — as a
 self-hosted SaaS.** Built with Next.js 16, React 19 and Tailwind CSS 4. Runs on a VPS, Docker,
 cPanel (Node.js) or Vercel, with MySQL/MariaDB or a zero-setup SQLite database.
@@ -76,3 +85,7 @@ Bug reports and pull requests are welcome — please open an
 ## License
 
 [MIT](LICENSE) © 2026 EpiFive
+
+---
+
+<p align="center">Made by <b>EpiFive</b> — <a href="https://www.epifive.com/?utm_source=github&utm_medium=readme&utm_campaign=statuszen">www.epifive.com</a> · <a href="https://www.epifive.com/open-source?utm_source=github&utm_medium=readme&utm_campaign=statuszen">more open-source projects</a></p>
